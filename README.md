@@ -2,6 +2,8 @@
 
 ![header](https://capsule-render.vercel.app/api?type=wave&section=header&color=F5B7B1&fontColor=ffffff&height=300&text=Taehee%20Kang&fontSize=80&animation=fadeIn&fontAlignY=38)
 
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftaylor-kang&count_bg=%23F5B7B1&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+
 <h3>
   💼 &nbsp NAVER Corp. SW Engineer (2020.01 ~ )&nbsp
   <a href="now.naver.com"><img width="50px" src="https://now.naver.com/img/logo_title_pc2.bfd68850.png"/></a>
