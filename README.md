@@ -6,7 +6,7 @@
 
 <h3>
   💼 &nbsp NAVER Corp. SW Engineer (2020.01 ~ )&nbsp
-  <a href="now.naver.com"><img width="50px" src="https://now.naver.com/img/logo_title_pc2.bfd68850.png"/></a>
+  <a href="https://now.naver.com"><img width="50px" src="https://now.naver.com/img/logo_title_pc2.bfd68850.png"/></a>
   <br/>
   <br/>
   🎓 &nbsp Hanyang University CSE Bachelor's degree (2015.02 ~ 2020.02)
