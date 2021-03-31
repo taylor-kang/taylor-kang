@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=F5B7B1&fontColor=ffffff&height=400&text=Taehee%20Kang&fontSize=80)
+![header](https://capsule-render.vercel.app/api?type=wave&section=header&color=F5B7B1&fontColor=ffffff&height=300&text=Taehee%20Kang&fontSize=80&animation=fadeIn&fontAlignY=38)
 
 <h3>
   💼 &nbsp NAVER Corp. SW Engineer (2020.01 ~ )&nbsp
@@ -27,5 +27,5 @@
 <br/>
 <br/>
 
-![Footer](https://capsule-render.vercel.app/api?type=wave&color=F5B7B1&fontColor=ffffff&height=200&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=wave&color=F5B7B1&fontColor=ffffff&height=150&section=footer)
 </div>
