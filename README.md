@@ -2,20 +2,22 @@
 
 ![header](https://capsule-render.vercel.app/api?type=wave&section=header&color=F5B7B1&fontColor=ffffff&height=150&fontSize=80&animation=fadeIn)
 
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftaylor-kang&count_bg=%23F5B7B1&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
-
-<h3>
+<h3 align="center">👩🏻‍💻 Intro</h3>
+<h4>
   💼 &nbsp NAVER Corp. SW Engineer (2020.01 ~ )&nbsp
   <a href="https://now.naver.com"><img width="50px" src="https://now.naver.com/img/logo_title_pc2.bfd68850.png"/></a>
   <br/>
   <br/>
+  🏆 &nbsp SW Maestro(9th) TOP 10 Certificate (Ministry of Science and ICT, Korea) (2018.05 ~ 2019.03)
+  <br/>
+  <br/>
   🎓 &nbsp Hanyang University CSE Bachelor's degree (2015.02 ~ 2020.02)
-</h3>
+</h4>
 
 <br/>
 <br/>
 
-<h3 align="center">🧱 Tech Stack 🧱</h3>
+<h3 align="center">🧱 Tech Stack</h3>
 <div>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/DJango-092E20?style=flat-square&logo=Django&logoColor=white"/></a>&nbsp 
@@ -28,5 +30,7 @@
 <br/>
 <br/>
 <br/>
+
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftaylor-kang&count_bg=%23F5B7B1&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 
 </div>
