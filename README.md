@@ -5,15 +5,19 @@
 <h3 align="center">👩🏻‍💻 Intro</h3>
 <h4>
   💼 &nbsp NAVER Corp. SW Engineer (2020.01 ~ )&nbsp
-  <a href="https://now.naver.com"><img width="50px" src="https://now.naver.com/img/logo_title_pc2.bfd68850.png"/></a>
+ </h4> 
+  <a href="https://vibe.naver.com"><img width="30px" src="https://search.pstatic.net/common?type=f&size=53x53&quality=100&direct=true&src=https%3A%2F%2Fpost-phinf.pstatic.net%2FMjAyMTAxMTJfMjEz%2FMDAxNjEwNDE2NzYzMzg1.CEM2ada8Clw8i1y0rMXLTJ8mCJL7KTsKJXho5NFQdNIg.-fkAXhQzmdH5TOcYzKxTcHDOpvHlpWCvt5_k7eKekvgg.PNG%2Fvibe_blog_profile_500X500.png"/></a> (2021.04~)
+
+  <a href="https://now.naver.com"><img width="50px" src="https://now.naver.com/img/logo_title_pc2.bfd68850.png"/></a>(2020.03~2021.04) 
+<h4>
   <br/>
   <br/>
   🏆 &nbsp SW Maestro(9th) TOP 10 Certificate (Ministry of Science and ICT, Korea) (2018.05 ~ 2019.03)
   <br/>
   <br/>
   🎓 &nbsp Hanyang University CSE Bachelor's degree (2015.02 ~ 2020.02)
-</h4>
-
+</h4> 
+  
 <br/>
 <br/>
 
